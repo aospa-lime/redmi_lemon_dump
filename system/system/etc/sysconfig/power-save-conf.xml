@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <allow-in-power-save package="com.android.deskclock"/>
+    <allow-in-power-save package="com.android.updater"/>
+    <allow-in-power-save package="com.android.mms"/>
+    <allow-in-power-save package="com.google.android.apps.messaging"/>
+    <allow-in-power-save package="jp.softbank.mb.plusmessage"/>
+    <allow-in-power-save package="jp.softbank.mb.parentalcontrols"/>
+    <allow-in-power-save package="jp.softbank.tether.entitlement"/>
+    <allow-in-power-save package="jp.softbank.mb.tdrl"/>
+    <allow-in-power-save package="com.mcafee.vsm_android_sbm"/>
+    <allow-in-power-save package="jp.co.bbss.android.security.sagiwall_softbank"/>
+</permissions>
