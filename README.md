@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201004.002 21.6.30 release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: lemon
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201004.002
+- incremental: 21.6.30
+- tags: release-keys
+- fingerprint: Redmi/lime_global/lime:10/QKQ1.200830.002/V12.0.4.0.QJQMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-11-RKQ1.201004.002-21.6.30-release-keys
+- repo: redmi_lemon_dump
