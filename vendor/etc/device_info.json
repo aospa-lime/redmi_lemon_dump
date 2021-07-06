@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 662",
+    "battery": "6000mAh",
+    "camera": "48MP+8MP+2MP",
+    "screen": "6.53″ IPS LCD",
+    "resolution": "2340×1080"
+  },
+  "camera": {
+    "front_camera": "8MP",
+    "rear_camera": "48MP+8MP+2MP"
+  }
+}
