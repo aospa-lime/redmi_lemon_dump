@@ -1,0 +1,5 @@
+system_ext/priv-app/Settings/Settings.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+system/system/apex/com.android.vndk.current.apex
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
